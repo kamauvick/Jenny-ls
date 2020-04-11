@@ -1,2 +1,2 @@
 # Jenny-ls
-A simple product catalog
+A simple product catalog with prices
