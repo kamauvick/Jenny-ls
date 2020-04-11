@@ -34,7 +34,7 @@ li{
 #mstari{
     height: 105px;
     width: 3px;
-    color: rgb(165, 4, 4);
+    color: red;
 }
 
 /*table styles*/
@@ -49,10 +49,10 @@ td, th {
     text-align: left;
   }
   th{
-      color: #ffd700;
+      color: #ffd000;
   }
   td{
-      color: #cba443;
+      color: #ffd000;
   }
 tr:nth-child(even) {
     background-color:#53585e;
@@ -62,7 +62,7 @@ tr:nth-child(even) {
 }
 .table-header, .column-1, .column-2, .column-3{
     font-family: 'Open Sans', sans-serif;
-    font-size: 13px;
+    font-size: 12px;
 
 }
 .kulia{
