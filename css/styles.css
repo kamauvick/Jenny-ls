@@ -10,6 +10,12 @@ img{
     display: flex;
     justify-content: space-between;
 }
+
+.choice-text{
+    font-size: 15px;
+    color: #b7b9be;
+    font-family: 'Roboto Slab', serif;
+}
 .nav-ul{
     list-style-type: none;
 }
