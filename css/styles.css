@@ -29,12 +29,6 @@ li{
     color: brown;
 }
 
-/* #separator{
-    background-color: grey;
-    width: 4px;
-    height: 120px;
-} */
-
 /*table styles*/
 
 table {
@@ -44,7 +38,6 @@ table {
   }
 
 td, th {
-    /* border: 0.4px solid #e6e9f3; */
     text-align: left;
     padding: 4px;
   }
