@@ -48,12 +48,12 @@ table {
 td, th {
     text-align: left;
   }
-  th{
+th{
       color: #ffd000;
-  }
-  td{
+}
+td{
       color: #ffd000;
-  }
+}
 tr:nth-child(even) {
     background-color:#53585e;
 }
