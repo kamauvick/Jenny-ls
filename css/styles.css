@@ -54,6 +54,9 @@ th{
 td{
       color: #ffd000;
 }
+tr td:active{
+    color: seashell;
+}
 tr:nth-child(even) {
     background-color:#53585e;
 }
