@@ -57,6 +57,9 @@ td{
 tr td:active{
     color: seashell;
 }
+tr:hover{
+    color:white;
+}
 tr:nth-child(even) {
     background-color:#53585e;
 }
