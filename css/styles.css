@@ -1,5 +1,6 @@
 html, body{
     background-color: #18191b;
+    scroll-behavior: smooth;
 }
 img{
     height: 220px;
