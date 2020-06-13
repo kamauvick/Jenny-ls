@@ -102,6 +102,8 @@ tr:nth-child(even) {
 }
 .order-steps p{
     color: #53585e;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
 }
 .step{
     font-weight: bold;
@@ -118,4 +120,6 @@ tr:nth-child(even) {
 }
 .footer .copyright{
     padding-top: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
 }
