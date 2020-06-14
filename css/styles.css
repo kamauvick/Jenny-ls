@@ -1,0 +1,125 @@
+html, body{
+    background-color: #18191b;
+    scroll-behavior: smooth;
+}
+img{
+    height: 220px;
+    width: 330px;
+}
+
+.logo-section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.choice-text{
+    font-size: 13px;
+    color: #637075;
+    font-family: 'Open Sans', sans-serif;
+}
+.nav-ul{
+    list-style-type: none;
+}
+ul{
+    justify-content: space-evenly;
+}
+li{
+    margin: 0 0px 0 30px;
+}
+
+#header-highlight{
+    display: flex;
+    justify-content: flex-start;
+}
+
+#mstari{
+    height: 105px;
+    width: 3px;
+    color: red;
+}
+
+/*table styles*/
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+td, th {
+    text-align: left;
+  }
+th{
+      color: #ffd000;
+}
+td{
+      color: #ffd000;
+}
+tr td:active{
+    color: seashell;
+}
+tr:hover{
+    color:white;
+}
+tr:nth-child(even) {
+    background-color:#53585e;
+}
+.table-header{
+    font-weight: bold;
+}
+.table-header, .column-1, .column-2, .column-3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+
+}
+.kulia{
+    display: flex;
+}
+#line-separator{
+    width: 2px;
+    background-color: hotpink;
+    height: 60px;
+}
+#product-name{
+    color: white;
+    font-size: 18px;
+}
+.drinks-header, .banner-text{
+    color: #b7b9be;
+    font-family: 'Roboto Slab', serif;
+}
+
+#lq-menu{
+    list-style-type: none;
+}
+#lq-menu li{
+    text-decoration: none;
+    margin: 1px;
+    padding: 0;
+}
+.order-header{
+    color: #b7b9be;
+}
+.order-steps p{
+    color: #53585e;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+}
+.step{
+    font-weight: bold;
+}
+
+
+.footer{
+    padding: 0;
+    margin: 0;
+    color: ivory;
+    background-color: #000000;
+    padding-bottom: 20px;
+    margin-top: 80px;
+}
+.footer .copyright{
+    padding-top: 20px;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+}
