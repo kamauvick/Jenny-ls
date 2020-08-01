@@ -6,6 +6,9 @@ img{
     height: 220px;
     width: 330px;
 }
+#navigate{
+    color: red;
+}
 
 .logo-section{
     display: flex;
